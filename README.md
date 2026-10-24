@@ -1,6 +1,6 @@
 # Data_Science_2026
 
-# Git and GitHub Assignment for statistical computing 
+# Git and GitHub Assignment for statistical computing
 
 ## Overview
 
@@ -54,4 +54,3 @@ created for educational purposes.
 ## Author
 
 Gemechu Getachow
-10/24/2026
