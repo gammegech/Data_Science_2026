@@ -1,6 +1,6 @@
 # Data_Science_2026
 
-# Git and GitHub Assignment
+# Git and GitHub Assignment for statistical computing 
 
 ## Overview
 
