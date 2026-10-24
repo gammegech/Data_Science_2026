@@ -1,4 +1,4 @@
-# Data_Science_2026# Data_Science_2026
+# Data_Science_2026
 
 # Git and GitHub Assignment
 
